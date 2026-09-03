@@ -52,7 +52,7 @@ Projects currently being developed and documented:
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Add your LinkedIn URL here](https://www.linkedin.com/in/enifome-ebe-a158a6347/)  
+**LinkedIn:** (https://www.linkedin.com/in/enifome-ebe-a158a6347/)  
 **GitHub:** @fome03
 
 ---
